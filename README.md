@@ -1,5 +1,7 @@
 this repositories contains a UI Clone of Twitter
 
+![imagem](https://i.imgur.com/v1AaYYf.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

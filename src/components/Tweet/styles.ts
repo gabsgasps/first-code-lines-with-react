@@ -118,6 +118,7 @@ export const Status = styled.div`
   display: flex;
   align-items: center;
   font-size: 14px;
+  user-select: none;
 
   &:nth-child(1) {
     &,
